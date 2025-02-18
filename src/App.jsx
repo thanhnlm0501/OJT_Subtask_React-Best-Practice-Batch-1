@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-      <InputDisplay />
+      <UserList></UserList>
     </>
   );
 }
