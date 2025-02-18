@@ -1,0 +1,13 @@
+.register-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+}
